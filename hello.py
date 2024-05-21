@@ -6,3 +6,5 @@ first, last = name.split(" ")
 
 # Say hello to user 
 print (f"hello, {first}") 
+print ("just a test")
+#testing
